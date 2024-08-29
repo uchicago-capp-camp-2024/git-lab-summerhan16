@@ -1,3 +1,4 @@
 1. What word was changed in 'text/time-machine.txt'
-
+question
 2. What did the script do to the file 'text/last-question.txt'
+replace the word "question" with question  mark (?). When there is a change in the intial script, it is shown in a different colour (displaying both paragraphs pre-/prior- change). 
